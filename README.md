@@ -1,14 +1,14 @@
-
+                                       Home Page
 ![1](https://github.com/7-atharva/Youtube-Clone/assets/111700367/87265474-d3c4-47e8-ac14-3c7a7fdfaeaf)
-
+                                     Watch Page
 ![2](https://github.com/7-atharva/Youtube-Clone/assets/111700367/af0957a7-24eb-48e1-a59d-6ddf437a73a3)
-
+                                 Suggested Category
 ![3](https://github.com/7-atharva/Youtube-Clone/assets/111700367/a1ab15cd-b140-4f78-8943-ebd3209af822)
-
+                            Search by Suggested category
 ![up-left category](https://github.com/7-atharva/Youtube-Clone/assets/111700367/6b8ca6f7-6f01-4810-8fc1-cc49c5eb0bd9)
-
+               Search Engin Using API for better Seraching Operations
 ![category](https://github.com/7-atharva/Youtube-Clone/assets/111700367/58c431a5-cbf4-4d14-8f49-5a8bfebbeb7a)
-
+                                   Search Results
 ![Search engin](https://github.com/7-atharva/Youtube-Clone/assets/111700367/f2ac7833-5061-483c-aba3-20a6580abe7c)
 
 ![serach results](https://github.com/7-atharva/Youtube-Clone/assets/111700367/bf9f1a83-fe11-4ec2-9dfa-f668701310b7)
