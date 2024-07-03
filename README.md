@@ -1,3 +1,18 @@
+
+![1](https://github.com/7-atharva/Youtube-Clone/assets/111700367/87265474-d3c4-47e8-ac14-3c7a7fdfaeaf)
+
+![2](https://github.com/7-atharva/Youtube-Clone/assets/111700367/af0957a7-24eb-48e1-a59d-6ddf437a73a3)
+
+![3](https://github.com/7-atharva/Youtube-Clone/assets/111700367/a1ab15cd-b140-4f78-8943-ebd3209af822)
+
+![Search engin](https://github.com/7-atharva/Youtube-Clone/assets/111700367/f2ac7833-5061-483c-aba3-20a6580abe7c)
+
+![serach results](https://github.com/7-atharva/Youtube-Clone/assets/111700367/bf9f1a83-fe11-4ec2-9dfa-f668701310b7)
+
+![category](https://github.com/7-atharva/Youtube-Clone/assets/111700367/58c431a5-cbf4-4d14-8f49-5a8bfebbeb7a)
+
+![up-left category](https://github.com/7-atharva/Youtube-Clone/assets/111700367/6b8ca6f7-6f01-4810-8fc1-cc49c5eb0bd9)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -62,6 +77,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
+
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
