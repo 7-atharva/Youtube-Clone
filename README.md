@@ -5,13 +5,15 @@
 
 ![3](https://github.com/7-atharva/Youtube-Clone/assets/111700367/a1ab15cd-b140-4f78-8943-ebd3209af822)
 
+![up-left category](https://github.com/7-atharva/Youtube-Clone/assets/111700367/6b8ca6f7-6f01-4810-8fc1-cc49c5eb0bd9)
+
+![category](https://github.com/7-atharva/Youtube-Clone/assets/111700367/58c431a5-cbf4-4d14-8f49-5a8bfebbeb7a)
+
 ![Search engin](https://github.com/7-atharva/Youtube-Clone/assets/111700367/f2ac7833-5061-483c-aba3-20a6580abe7c)
 
 ![serach results](https://github.com/7-atharva/Youtube-Clone/assets/111700367/bf9f1a83-fe11-4ec2-9dfa-f668701310b7)
 
-![category](https://github.com/7-atharva/Youtube-Clone/assets/111700367/58c431a5-cbf4-4d14-8f49-5a8bfebbeb7a)
 
-![up-left category](https://github.com/7-atharva/Youtube-Clone/assets/111700367/6b8ca6f7-6f01-4810-8fc1-cc49c5eb0bd9)
 
 # Getting Started with Create React App
 
